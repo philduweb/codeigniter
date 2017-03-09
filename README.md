@@ -1,2 +1,2 @@
-# codeigniter
-sandbox codeigniter
+# CodeIgniter
+sandbox for codeigniter
