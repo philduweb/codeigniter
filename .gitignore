@@ -2,6 +2,7 @@
 
 /application/cache/
 /aplication/logs/
+/logs/
 
 /www/user_guide/
 
